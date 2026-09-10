@@ -1,0 +1,9 @@
+{
+  "name": "Home Base",
+  "short_name": "Home Base",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#9CAF88",
+  "theme_color": "#9CAF88",
+  "icons": []
+}
